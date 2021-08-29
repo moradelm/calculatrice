@@ -1,3 +1,3 @@
 # calculatrice
-Pour un bon foncionnement veuiller bien suivre ce que demande le programme.
-MERCI 
+Pour un bon fonctionnement veuillez bien suivre ce que demande le programme.
+MERCI :)
