@@ -9,15 +9,16 @@ int main()
     int r,d,e;
     int n;
      debut :
-    printf("----MENU-----\n");
-    printf(" 1-somme\n");
-    printf(" 2-produit\n");
-    printf(" 3-soustraction\n");
-    printf(" 4-division\n");
-    printf(" 5-pgcd \n");
-    printf(" 6-racine\n");
-    printf(" 7-puissance\n");
-    printf("------------\n");
+    printf("---BIENVENUE---\n");
+    printf("-----MENU-----\n");
+    printf("  1-somme\n");
+    printf("  2-produit\n");
+    printf("  3-soustraction\n");
+    printf("  4-division\n");
+    printf("  5-pgcd \n");
+    printf("  6-racine\n");
+    printf("  7-puissance\n");
+    printf("------------------------\n");
     printf("veuiller inserer le numero de operation que vous voulez effectuer : \n");
     scanf("%d",&choix);
     switch(choix){
